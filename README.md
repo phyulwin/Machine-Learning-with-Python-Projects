@@ -7,3 +7,7 @@ Projects for Machine Learning with Python by freeCodeCamp:
 3. [Book Recommendation Engine using KNN](link to project)
 4. [Linear Regression Health Costs Calculator](https://github.com/phyulwin/Machine-Learning-with-Python-Projects/blob/main/project-solutions/Phyu_Lwin_Copy_of_fcc_predict_health_costs_with_regression.ipynb)
 5. [Neural Network SMS Text Classifier](https://github.com/phyulwin/Machine-Learning-with-Python-Projects/blob/main/project-solutions/Phyu_Lwin_sms_text_classification_solution.pdf)
+
+# Certification 
+
+[freeCodeCamp Certification](https://www.freecodecamp.org/certification/phl/machine-learning-with-python-v7)
